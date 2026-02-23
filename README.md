@@ -1,4 +1,4 @@
-# Custom JavaScript Array Polyfills 🛠️
+# Custom JavaScript Array Polyfills
 
 A collection of custom-built JavaScript array methods created from scratch to understand the inner workings of the JS engine, the `this` keyword, and prototype chaining.
 
